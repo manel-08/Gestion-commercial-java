@@ -4,8 +4,6 @@ public class Bean {
 		private String nom;
 		private String prenom;
 		private boolean etat;
-		private int age;
-		
 		
 		public String getNom() {
 			return nom;
